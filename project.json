@@ -1,0 +1,10 @@
+{
+    "name": "AMDE1D1W",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "AMDE1D1W.xml",
+    "author": "Shayan-Nawab",
+    "minimum_firmware_version": 42
+}
